@@ -29,5 +29,5 @@ Decrypt All Your Python Scripts Easily.Python Decrypt
 
 ## Single Command :
 ```
-apt update ; apt install git curl python2 -y ; git clone git://github.com/nfs-tech-bd/DECRYPTER ; cd DECRYPTER ; python2 DECRYPTER.py
+apt update ; apt install git curl python2 -y ; git clone git://github.com/Nikhil844863/DECRYPTER ; cd DECRYPTER ; python2 DECRYPTER.py
 ```
